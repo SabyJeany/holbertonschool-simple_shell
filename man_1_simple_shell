@@ -1,4 +1,4 @@
-.TH man 1 "DEC 12  2023" "1.0" "Holberton Simple Shell Project"
+.TH man 1 "AUG 21 2025" "1.0" "Holberton Simple Shell Project"
 .SH NAME
     hsh - Holberton Simple Shell: command line interpreter
 .PP
@@ -43,6 +43,5 @@ There are memory leaks when exiting the shell.
 This will be fixed in a later version of this shell.
 .PP
 .SH AUTHORS
-Alfred Gibeau--Ahoussinou <7550@holbertonstudents.com>
-Maël Cuny <7432@holbertonstudents.com>
-Othman Hammoudi<7566@holbertonstudents.com>
+Bokouabela Saby Jeany Jeanclaude <11480@holbertonstudents.com>
+Allan Bony Rattler <9995@holbertonstudents.com>
